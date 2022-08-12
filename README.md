@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-##### Hi I'm Ela 👋, 
+### Hi I'm Ela 👋, 
 
-Frontend Developer from Istanbul / Turkey
+#### Frontend Developer from Istanbul / Turkey
 
 -👨‍🎓 I’m currently studying in Kırşehir Ahi Evran University Computer Engineering.
 
