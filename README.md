@@ -1,13 +1,15 @@
-# Hi I'm Ela 👋, 
+<h1 align="center"> Hi I'm Ela 👋, </h1>
 
 ### Frontend Developer from Istanbul / Turkey
 
-#### -👨‍🎓 I’m currently studying in Kırşehir Ahi Evran University Computer Engineering.
+- 👨‍🎓 I’m currently studying in Kırşehir Ahi Evran University Computer Engineering.
 
-#### -👨‍💻 I'm currently learning React.js, Javascript, .Net 
+- 👨‍💻 I'm currently learning React.js, Javascript, .Net 
 
-#### -📫 How to reach me: 
-#### elakascioglu3425@gmail.com
+- 📫 How to reach me: 
+elakascioglu3425@gmail.com
+
+
 
 #### Connect with me:
 [linkedin]: https://www.linkedin.com/in/elakascioglu/
