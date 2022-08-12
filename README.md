@@ -1,16 +1,38 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<!--
-**elaksc/elaksc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Hi I'm Ela 👋, 
 
-Here are some ideas to get you started:
+Frontend Developer from Istanbul / Turkey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-👨‍🎓 I’m currently studying in Kırşehir Ahi Evran University Computer Engineering.
+
+-👨‍💻 I'm currently learning React.js, Javascript, .Net 
+
+-📫 How to reach me: 
+elakascioglu3425@gmail.com
+
+##### Connect with me:
+[linkedin]: https://www.linkedin.com/in/elakascioglu/
+[discord]: https://discord.com/users/636789269465137153
+
+[<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@7.6.0/icons/linkedin.svg"/>][linkedin]  [<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@7.6.0/icons/discord.svg"/>][discord]
+ 
+<br>
+
+ ##### Technologies: 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="22" height ="22"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="22" height ="22"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="22" height ="22"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="22" height ="22">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="22" height ="22">
+<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="22" height ="22">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="22" height ="22">
+
+<br><br>
+
+<details><summary>Github Stats</summary><img src="https://github-readme-stats.vercel.app/api?username=elaksc&theme=radical">
+</details>
+
+<details><summary>Most Used Languages</summary><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaksc&layout=compact">
+</details>
+
+    
+
+
