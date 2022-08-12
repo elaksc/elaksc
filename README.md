@@ -1,4 +1,4 @@
-#Hi I'm Ela 👋, 
+# Hi I'm Ela 👋, 
 
 ### Frontend Developer from Istanbul / Turkey
 
