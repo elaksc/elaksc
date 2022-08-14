@@ -15,7 +15,7 @@ elakascioglu3425@gmail.com
 [linkedin]: https://www.linkedin.com/in/elakascioglu/
 [discord]: https://discord.com/users/636789269465137153
 
-[<img height="28" width="28" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>][linkedin]  [<img height="28" width="28" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png"/>][discord]
+[<img height="28" width="28" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>][linkedin]   [<img height="28" width="28" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png"/>][discord]
  
 
  #### Technologies: 
