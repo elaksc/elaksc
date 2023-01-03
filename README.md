@@ -1,6 +1,6 @@
 <h1 align="center"> Hi I'm Ela 👋, </h1>
 
-<h3 align ="center"> Frontend Developer from Istanbul / Turkey </h3>
+<h3 align ="center"> Web Developer from Istanbul / Turkey </h3>
 
 - 👨‍🎓 I’m currently studying in Kırşehir Ahi Evran University Computer Engineering.
 
