@@ -2,12 +2,11 @@
 
 <h3 align ="center"> Web Developer from Istanbul / Turkey </h3>
 
-- 👨‍🎓 I’m currently studying in Kırşehir Ahi Evran University Computer Engineering.
+- 👨‍🎓 I'm currently pursuing my studies in Computer Engineering at Kırşehir Ahi Evran University.
 
-- 👨‍💻 I'm currently learning React.js, Javascript, .Net 
-
-- 📫 How to reach me: 
-elakascioglu3425@gmail.com
+- 👨‍💻 My current areas of focus include React.js, Javascript, and .Net, which I am actively learning and enhancing my skills in.
+-
+- 📫 You can reach me through my email address: elakascioglu3425@gmail.com.
 
 
 
