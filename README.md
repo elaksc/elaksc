@@ -5,7 +5,7 @@
 - 👨‍🎓 I'm currently pursuing my studies in Computer Engineering at Kırşehir Ahi Evran University.
 
 - 👨‍💻 My current areas of focus include React.js, Javascript, and .Net, which I am actively learning and enhancing my skills in.
--
+
 - 📫 You can reach me through my email address: elakascioglu3425@gmail.com.
 
 
